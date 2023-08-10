@@ -1,10 +1,11 @@
 # Stellar Explorer
+Conso
+Conso5108
 
-[![Build Status](https://travis-ci.org/chatch/stellarexplorer.svg?branch=master)](https://travis-ci.org/chatch/stellarexplorer)
 
-A ledger explorer for [Stellar](https://stellar.org).
 
-Public: https://steexp.com
+
+Public: pi://blockchain.pi
 Test: https://testnet.steexp.com
 Local: http://localhost:3000
 
